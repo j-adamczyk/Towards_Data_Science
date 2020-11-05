@@ -21,4 +21,4 @@ class FaissKMeans:
         self.inertia_ = self.kmeans.obj[-1]
 
     def predict(self, X):
-        return self.kmeans.index.search(X.astype(np.float32), 1)
+        return self.kmeans.index.search(X.astype(np.float32), 1)[1]
