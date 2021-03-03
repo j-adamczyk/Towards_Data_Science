@@ -8,3 +8,5 @@ Articles:
 - [Make kNN 300 times faster than Scikit-learn's in 20 lines!](https://towardsdatascience.com/make-knn-300-times-faster-than-scikit-learns-in-20-lines-5e29d74e76bb)
 - [Why gradient descent and normal equations are BAD for linear regression](https://towardsdatascience.com/why-gradient-descent-and-normal-equation-are-bad-for-linear-regression-928f8b32fa4f)
 - [K-means 8x faster, 27x lower error than Scikit-learn's in 25 lines](https://towardsdatascience.com/k-means-8x-faster-27x-lower-error-than-scikit-learns-in-25-lines-eaedc7a3a0c8)
+- [Plotting decision trees in-memory](https://towardsdatascience.com/plotting-decision-trees-in-memory-401219306d50)
+- [Robust face detection with MTCNN](https://towardsdatascience.com/robust-face-detection-with-mtcnn-400fa81adc2e)
